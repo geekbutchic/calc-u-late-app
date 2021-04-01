@@ -13,7 +13,7 @@ html {
 
 .calculator {
   border: 1px solid #ccc;
-  border-radius: 5px;
+  border-radius: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
